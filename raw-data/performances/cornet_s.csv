@@ -1,0 +1,20 @@
+subj,dataset_name,metric_name,performance
+cornet_s,edge,accuracy (top-1),0.25
+cornet_s,silhouette,accuracy (top-1),0.4625
+cornet_s,cue-conflict,accuracy (top-1),0.17734375
+cornet_s,colour,accuracy (top-1),0.9734375
+cornet_s,contrast,accuracy (top-1),0.63671875
+cornet_s,high-pass,accuracy (top-1),0.33515625
+cornet_s,low-pass,accuracy (top-1),0.39765625
+cornet_s,phase-scrambling,accuracy (top-1),0.5026785714285714
+cornet_s,power-equalisation,accuracy (top-1),0.8375
+cornet_s,false-colour,accuracy (top-1),0.94375
+cornet_s,rotation,accuracy (top-1),0.73203125
+cornet_s,eidolonI,accuracy (top-1),0.471875
+cornet_s,eidolonII,accuracy (top-1),0.40703125
+cornet_s,eidolonIII,accuracy (top-1),0.34609375
+cornet_s,uniform-noise,accuracy (top-1),0.36484375
+cornet_s,sketch,accuracy (top-1),0.6
+cornet_s,sketch,accuracy (top-5),0.79375
+cornet_s,stylized,accuracy (top-1),0.3625
+cornet_s,stylized,accuracy (top-5),0.67875

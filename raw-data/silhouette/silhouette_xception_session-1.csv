@@ -1,0 +1,2241 @@
+subj,session,trial,rt,object_response,category,condition,imagename
+xception,1,1,NaN,"[['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'bottle' 'bird' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane' 'boat']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']]",airplane,NaN,airplane1.png
+xception,1,2,NaN,"[['bottle' 'bird' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird' 'dog']
+ ['dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bottle' 'cat' 'boat' 'bird' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'dog' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['dog' 'bottle' 'bird' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['dog' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'chair' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat' 'bird']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['dog' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle']]",airplane,NaN,airplane10.png
+xception,1,3,NaN,"[['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'dog' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'dog' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'dog' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']]",airplane,NaN,airplane2.png
+xception,1,4,NaN,"[['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']]",airplane,NaN,airplane3.png
+xception,1,5,NaN,"[['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']]",airplane,NaN,airplane4.png
+xception,1,6,NaN,"[['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']]",airplane,NaN,airplane5.png
+xception,1,7,NaN,"[['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bird' 'bottle' 'dog']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird' 'dog']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']]",airplane,NaN,airplane6.png
+xception,1,8,NaN,"[['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']]",bird,NaN,bird2.png
+xception,1,9,NaN,"[['bird' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'dog' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bird' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird']
+ ['dog' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'bird']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'boat' 'bottle']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['dog' 'boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'bird' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['dog' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'chair' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bottle' 'cat' 'boat' 'bird' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'dog' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']]",bird,NaN,bird3.png
+xception,1,10,NaN,"[['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'dog' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'bottle' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'dog' 'cat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'bottle' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'bottle' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']]",bird,NaN,bird4.png
+xception,1,11,NaN,"[['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['bird' 'bottle' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['clock' 'bird' 'bottle' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'cat' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'bottle' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'clock' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife'
+  'keyboard' 'elephant' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife'
+  'keyboard' 'elephant' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']]",bird,NaN,bird5.png
+xception,1,12,NaN,"[['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'clock' 'bottle' 'dog' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'bottle' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['bird' 'clock' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife'
+  'keyboard' 'elephant' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'bottle' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'cat' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'dog' 'bottle']]",bird,NaN,bird6.png
+xception,1,13,NaN,"[['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'dog' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'dog' 'cat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'bottle' 'dog' 'cat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']]",bird,NaN,bird7.png
+xception,1,14,NaN,"[['dog' 'bird' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['dog' 'cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'bird' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'bird' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bird' 'bottle' 'dog']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird']
+ ['cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bird' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']]",bird,NaN,bird8.png
+xception,1,15,NaN,"[['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']]",car,NaN,car4.png
+xception,1,16,NaN,"[['dog' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'dog' 'cat' 'boat' 'bird' 'bottle']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bird' 'bottle']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bird' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bird' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['dog' 'cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'bird']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane' 'boat']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird']]",car,NaN,car5.png
+xception,1,17,NaN,"[['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'dog' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']]",car,NaN,car6.png
+xception,1,18,NaN,"[['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'boat' 'bottle']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'keyboard' 'dog' 'boat' 'truck' 'oven' 'knife' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']]",car,NaN,car7.png
+xception,1,19,NaN,"[['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'bicycle' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'keyboard' 'dog' 'boat' 'truck' 'oven' 'knife' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']]",car,NaN,car8.png
+xception,1,20,NaN,"[['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'dog' 'bottle']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'boat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['dog' 'bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']]",car,NaN,car9.png
+xception,1,21,NaN,"[['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird']
+ ['dog' 'cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['dog' 'bottle' 'cat' 'boat' 'bird' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bird' 'bottle' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bird' 'bottle' 'dog']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird']
+ ['dog' 'bird' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'bird' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird']
+ ['dog' 'cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']]",cat,NaN,cat1.png
+xception,1,22,NaN,"[['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'bird' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'bird']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']]",clock,NaN,clock6.png
+xception,1,23,NaN,"[['dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'bird']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'dog' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird']
+ ['dog' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'dog' 'cat' 'boat' 'bottle' 'bird']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat' 'bird']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['dog' 'cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird']
+ ['bottle' 'bird' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bird' 'bottle']
+ ['bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'bird']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bird' 'bottle' 'dog']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat' 'bird']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'bird']]",clock,NaN,clock7.png
+xception,1,24,NaN,"[['bird' 'bicycle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'dog' 'clock' 'car' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'dog' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']]",clock,NaN,clock8.png
+xception,1,25,NaN,"[['bicycle' 'bird' 'truck' 'dog' 'bottle' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'cat' 'car' 'boat' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'bicycle' 'dog' 'boat' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'cat' 'car' 'bottle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'dog' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']]",clock,NaN,clock9.png
+xception,1,26,NaN,"[['bicycle' 'bird' 'truck' 'dog' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bicycle' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bear' 'airplane' 'bottle']
+ ['bicycle' 'bird' 'truck' 'dog' 'bottle' 'cat' 'boat' 'oven' 'knife'
+  'keyboard' 'elephant' 'clock' 'chair' 'car' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'keyboard' 'boat' 'dog' 'truck' 'oven' 'knife' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'dog' 'bottle']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']]",dog,NaN,dog1.png
+xception,1,27,NaN,"[['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['dog' 'boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['keyboard' 'bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']]",dog,NaN,dog10.png
+xception,1,28,NaN,"[['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird']
+ ['bicycle' 'dog' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'car' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bird' 'bottle']
+ ['boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bottle' 'bird' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bird' 'bottle']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bird']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle' 'bird']
+ ['bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['keyboard' 'bird' 'dog' 'truck' 'oven' 'knife' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'bird' 'dog']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']]",dog,NaN,dog2.png
+xception,1,29,NaN,"[['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'bird']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']]",keyboard,NaN,keyboard8.png
+xception,1,30,NaN,"[['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bird']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'bird' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bird' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'bird' 'dog']
+ ['boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'bird' 'dog']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['dog' 'cat' 'bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bottle' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']]",keyboard,NaN,keyboard9.png
+xception,1,31,NaN,"[['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'boat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']]",knife,NaN,knife1.png
+xception,1,32,NaN,"[['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'dog' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']]",knife,NaN,knife10.png
+xception,1,33,NaN,"[['bird' 'bottle' 'dog' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'dog' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'dog' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'boat' 'bottle']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'dog' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']]",knife,NaN,knife2.png
+xception,1,34,NaN,"[['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car' 'dog']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'boat' 'bottle']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog' 'boat']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']]",knife,NaN,knife3.png
+xception,1,35,NaN,"[['bird' 'cat' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'dog' 'chair' 'boat' 'bicycle' 'bear' 'airplane' 'clock' 'car']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'bird' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['bird' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat' 'dog']
+ ['bird' 'dog' 'bottle' 'cat' 'boat' 'truck' 'oven' 'knife' 'keyboard'
+  'elephant' 'clock' 'chair' 'car' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['bird' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['dog' 'boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bicycle' 'bear' 'airplane' 'dog']
+ ['boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'bird' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'boat']
+ ['bird' 'dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'bottle']
+ ['bird' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'dog'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'boat' 'bicycle' 'bear' 'airplane' 'dog' 'bottle']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'bird' 'dog']
+ ['bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'car' 'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bottle' 'dog']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bird' 'dog' 'bottle']
+ ['clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'chair'
+  'boat' 'bicycle' 'bear' 'airplane' 'dog' 'cat' 'bottle' 'bird']
+ ['dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'cat' 'bottle']
+ ['dog' 'boat' 'bird' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']
+ ['dog' 'bottle' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock'
+  'chair' 'cat' 'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['dog' 'truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair'
+  'cat' 'car' 'bottle' 'boat' 'bird' 'bicycle' 'bear' 'airplane']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'cat'
+  'car' 'boat' 'bird' 'bicycle' 'bear' 'airplane' 'bottle' 'dog']
+ ['dog' 'clock' 'car' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'chair' 'boat' 'bicycle' 'bear' 'airplane' 'cat' 'bottle' 'bird']
+ ['truck' 'oven' 'knife' 'keyboard' 'elephant' 'clock' 'chair' 'car'
+  'bicycle' 'bear' 'airplane' 'cat' 'boat' 'bird' 'bottle' 'dog']
+ ['bird' 'dog' 'boat' 'truck' 'oven' 'knife' 'keyboard' 'elephant'
+  'clock' 'chair' 'cat' 'car' 'bottle' 'bicycle' 'bear' 'airplane']]",knife,NaN,knife4.png

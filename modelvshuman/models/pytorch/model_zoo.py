@@ -5,6 +5,10 @@ from ..registry import register_model
 from ..wrappers.pytorch import PytorchModel, PyContrastPytorchModel, ClipPytorchModel, \
     ViTPytorchModel, EfficientNetPytorchModel, SwagPytorchModel
 
+from .cornet import get_model
+from .vonenet import get_model_v
+
+
 _PYTORCH_IMAGE_MODELS = "rwightman/pytorch-image-models"
 
 _EFFICIENTNET_MODELS = "rwightman/gen-efficientnet-pytorch"
@@ -614,3 +618,60 @@ def swag_vit_l16_in1k(model_name, *args):
 def swag_vit_h14_in1k(model_name, *args):
     model = torch.hub.load("facebookresearch/swag", model="vit_h14_in1k")
     return SwagPytorchModel(model, model_name, input_size=518, *args)
+
+@register_model("pytorch")
+def cornet_z(model_name, *args):
+    model = get_model('z', pretrained=True, map_location=None)
+    return SwagPytorchModel(model, model_name, input_size=224, *args)
+
+@register_model("pytorch")
+def cornet_r(model_name, *args):
+    model = get_model('r', pretrained=True, map_location=None, times=5)
+    return SwagPytorchModel(model, model_name, input_size=224, *args)
+
+@register_model("pytorch")
+def cornet_rt(model_name, *args):
+    model = get_model('rt', pretrained=True, map_location=None, times=5)
+    return SwagPytorchModel(model, model_name, input_size=224, *args)
+
+@register_model("pytorch")
+def cornet_s(model_name, *args):
+    model = get_model('s', pretrained=True, map_location=None)
+    return SwagPytorchModel(model, model_name, input_size=224, *args)
+
+@register_model("pytorch")
+def vonenet_alexnet(model_name, *args):
+    backbone = model_name[-7:]
+    model = get_model_v(model_arch=backbone, pretrained=True)
+    return SwagPytorchModel(model, model_name, input_size=224, *args)
+
+
+@register_model("pytorch")
+def vonenet_resnet50(model_name, *args):
+    backbone = model_name[-8:]
+    model = get_model_v(model_arch=backbone, pretrained=True)
+    return SwagPytorchModel(model, model_name, input_size=224, *args)
+
+@register_model("pytorch")
+def vonenet_resnet50_at(model_name, *args):
+    backbone = model_name[-11:]
+    model = get_model_v(model_arch=backbone, pretrained=True)
+    return SwagPytorchModel(model, model_name, input_size=224, *args)
+
+@register_model("pytorch")
+def vonenet_resnet50_ns(model_name, *args):
+    backbone = model_name[-11:]
+    model = get_model_v(model_arch=backbone, pretrained=True)
+    return SwagPytorchModel(model, model_name, input_size=224, *args)
+
+@register_model("pytorch")
+def vonenet_cornets(model_name, *args):
+    backbone = model_name[-7:]
+    model = get_model_v(model_arch=backbone, pretrained=True)
+    return SwagPytorchModel(model, model_name, input_size=224, *args)
+
+@register_model("pytorch")
+def vonenet_alexnet(model_name, *args):
+    backbone = model_name[-7:]
+    model = get_model_v(model_arch=backbone, pretrained=True)
+    return SwagPytorchModel(model, model_name, input_size=224, *args)

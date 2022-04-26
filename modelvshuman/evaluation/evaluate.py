@@ -23,7 +23,7 @@ def print_performance_to_csv(model_name, dataset_name,
               metric_name, performance]
 
     if not os.path.exists(csv_file_path):
-        with open(csv_file_path, "w", newline='') as f:
+        with open(csv_file_path, "a", newline='') as f:
             writer = csv.writer(f)
             writer.writerow(["subj", "dataset_name",
                              "metric_name", "performance"])
@@ -34,7 +34,7 @@ def print_performance_to_csv(model_name, dataset_name,
         # new row at the end.
         temp_file_path = csv_file_path.replace(".csv", "_temp.csv")
         with open(csv_file_path, 'r') as f:
-            with open(temp_file_path, 'w') as t:
+            with open(temp_file_path, 'a', newline='') as t:
                 reader = csv.reader(f)
                 writer = csv.writer(t)
 
@@ -106,7 +106,7 @@ class ResultPrinter():
         self.session_list = []
 
     def create_session_csv(self, session):
-
+        session = session.replace("/", "_")
         self.csv_file_path = pjoin(self.data_dir,
                                    self.dataset.name + "_" +
                                    self.model_name.replace("_", "-") + "_" +
@@ -123,7 +123,7 @@ class ResultPrinter():
         self.index = 0
 
         # write csv file header row
-        with open(self.csv_file_path, "w") as f:
+        with open(self.csv_file_path, "a", newline='') as f:
             writer = csv.writer(f)
             writer.writerow(["subj", "session", "trial",
                              "rt", "object_response", "category",
@@ -142,7 +142,7 @@ class ResultPrinter():
                 self.session_list.append(session_num)
                 self.create_session_csv(session_name)
 
-            with open(self.csv_file_path, "a") as f:
+            with open(self.csv_file_path, "a", newline='') as f:
                 writer = csv.writer(f)
                 writer.writerow([self.model_name,
                                  str(session_num), str(self.index+1),

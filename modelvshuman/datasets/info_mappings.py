@@ -1,5 +1,5 @@
 from abc import ABC
-
+import os
 
 class ImagePathToInformationMapping(ABC):
     def __init__(self):
@@ -17,9 +17,11 @@ class ImageNetInfoMapping(ImagePathToInformationMapping):
 
     def __call__(self, full_path):
         session_name = "session-1"
-        img_name = full_path.split("/")[-1]
+        img_name = full_path.split(os.sep)[-1]
         condition = "NaN"
-        category = full_path.split("/")[-2]
+
+        category = full_path.split(os.sep)[-2]
+
 
         return session_name, img_name, condition, category
 
@@ -32,7 +34,7 @@ class ImageNetCInfoMapping(ImagePathToInformationMapping):
 
     def __call__(self, full_path):
         session_name = "session-1"
-        parts = full_path.split("/")
+        parts = full_path.split(os.sep)
         img_name = parts[-1]
         category = parts[-2]
         severity = parts[-3]
@@ -48,8 +50,8 @@ class InfoMappingWithSessions(ImagePathToInformationMapping):
     """
 
     def __call__(self, full_path):
-        session_name = full_path.split("/")[-2]
-        img_name = full_path.split("/")[-1]
+        session_name = full_path.split(os.sep)[-2]
+        img_name = full_path.split(os.sep)[-1]
         condition = img_name.split("_")[3]
         category = img_name.split("_")[4]
 

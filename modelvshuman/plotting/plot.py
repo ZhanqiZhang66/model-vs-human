@@ -375,6 +375,7 @@ def x_y_plot(figure_path,
         y_vals = analysis.height_line_for_chance + 0 * x_vals
         plt.plot(x_vals, y_vals, ':', color="grey")
 
+    plt.legend([d.plotting_name for d in decision_makers])
     plt.savefig(figure_path)
     plt.close()
 
@@ -414,6 +415,7 @@ def confusion_matrix_helper(data, output_filename,
         ax.set(xlabel="Presented category", ylabel="Decision")
     else:
         ax.set(xlabel="", ylabel="")
+
 
     plt.savefig(output_filename, bbox_inches='tight', dpi=300)
     plt.close()
@@ -761,7 +763,7 @@ def plot_general_analyses(datasets, analysis, decision_maker_fun,
     for d in datasets:
         log(plot_type=plot_type, dataset_name=d.name)
 
-        df = ph.get_experimental_data(d)
+        df = ph.get_experimental_data(d, print_name=True)
 
         for e in d.experiments:
             figure_path = pjoin(result_dir,
@@ -1168,6 +1170,8 @@ def scatter_plot_helper(df, metric_x, metric_y, result_dir, dataset_name):
         plt.plot(l1, l2, linestyle='dashed', color="gray", linewidth=0.8)
         plt.text(x=x_text, y=0.01, s="expected", color="gray", ha='center')
 
+    plt.legend(df.model.values)
     plt.savefig(pjoin(result_dir,
                       f"scatter-plot_{metric_x.replace(' ', '-')}_vs_{metric_y.replace(' ', '-')}_{dataset_name}.pdf"))
+
     plt.close()

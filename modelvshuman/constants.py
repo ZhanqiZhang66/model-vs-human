@@ -6,7 +6,7 @@ from os.path import join as pjoin
 ##################################################################
 # DIRECTORIES
 ##################################################################
-
+os.environ["MODELVSHUMANDIR"] = "D:\\OneDrive - UC San Diego\\GitHub\\model-vs-human\\"
 PROJ_DIR = str(os.environ.get("MODELVSHUMANDIR", "model-vs-human"))
 assert (PROJ_DIR != "None"), "Please set the 'MODELVSHUMANDIR' environment variable as described in the README"
 CODE_DIR = pjoin(PROJ_DIR, "modelvshuman")
@@ -62,7 +62,7 @@ PLOT_TYPE_TO_DATASET_MAPPING = {
     # 'unusual' plot types:
     "entropy": NOISE_GENERALISATION_DATASETS,
     "confusion-matrix": DEFAULT_DATASETS,
-    }
+}
 
 DEFAULT_PLOT_TYPES = list(PLOT_TYPE_TO_DATASET_MAPPING.keys())
 DEFAULT_PLOT_TYPES.remove("entropy")
@@ -71,6 +71,24 @@ DEFAULT_PLOT_TYPES.remove("confusion-matrix")
 ##################################################################
 # MODELS
 ##################################################################
+MY_TORCHVISION_MODELS = ["alexnet",
+                         "vgg16_bn",
+                         "squeezenet1_0",
+                         "densenet201",
+                         "resnet50",
+                         "efficientnet_b0"]
+MY_BRAIN_MODELS = ["cornet_s",
+                   "cornet_r",
+                   "cornet_rt",
+                   "cornet_z",
+                   "vonenet_alexnet",
+                   "vonenet_resnet50",
+                   "vonenet_resnet50_at",
+                   "vonenet_resnet50_ns",
+                   "vonenet_cornets",
+                   "vonenet_alexnet"]
+
+My_TENSORFLOW_MODELS = ["xception"]
 
 TORCHVISION_MODELS = ["alexnet",
                       "vgg11_bn",

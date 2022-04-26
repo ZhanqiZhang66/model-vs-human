@@ -6,9 +6,9 @@ import os
 import torch
 from tqdm import tqdm
 
-from .datasets import ToTensorflow
-from .evaluation import evaluate as e
-from .utils import load_dataset, load_model
+from modelvshuman.datasets import ToTensorflow
+from modelvshuman.evaluation import evaluate as e
+from modelvshuman.utils import load_dataset, load_model
 
 logger = logging.getLogger(__name__)
 MAX_NUM_MODELS_IN_CACHE = 3
@@ -41,6 +41,7 @@ class ModelEvaluator:
                                             dataset=dataset)
 
             for images, target, paths in tqdm(dataset.loader):
+
                 images = images.to(device())
                 logits = model.forward_batch(images)
                 softmax_output = model.softmax(logits)
@@ -71,7 +72,7 @@ class ModelEvaluator:
         Returns:
             accuracy
         """
-
+        import tensorflow as tf
         logging_info = f"Evaluation model {model_name} on dataset {dataset.name} using Tensorflow Evaluator"
         logger.info(logging_info)
         print(logging_info)
@@ -80,6 +81,9 @@ class ModelEvaluator:
         for metric in dataset.metrics:
             metric.reset()
         for images, target, paths in tqdm(dataset.loader):
+            if model_name == "xception":
+                print("preprocess xception input")
+                images = tf.keras.applications.xception.preprocess_input(images)
             logits = model.forward_batch(images)
             softmax_output = model.softmax(logits)
             predictions = dataset.decision_mapping(softmax_output)

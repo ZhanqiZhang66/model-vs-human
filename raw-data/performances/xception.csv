@@ -1,0 +1,20 @@
+subj,dataset_name,metric_name,performance
+xception,edge,accuracy (top-1),1.0
+xception,silhouette,accuracy (top-1),1.0
+xception,cue-conflict,accuracy (top-1),1.0
+xception,colour,accuracy (top-1),1.0
+xception,contrast,accuracy (top-1),1.0
+xception,high-pass,accuracy (top-1),1.0
+xception,low-pass,accuracy (top-1),1.0
+xception,phase-scrambling,accuracy (top-1),1.0
+xception,power-equalisation,accuracy (top-1),1.0
+xception,false-colour,accuracy (top-1),1.0
+xception,rotation,accuracy (top-1),1.0
+xception,eidolonI,accuracy (top-1),1.0
+xception,eidolonII,accuracy (top-1),1.0
+xception,eidolonIII,accuracy (top-1),1.0
+xception,uniform-noise,accuracy (top-1),1.0
+xception,sketch,accuracy (top-1),1.0
+xception,sketch,accuracy (top-5),1.0
+xception,stylized,accuracy (top-1),1.0
+xception,stylized,accuracy (top-5),1.0

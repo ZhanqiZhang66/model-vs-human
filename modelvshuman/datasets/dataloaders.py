@@ -29,7 +29,16 @@ class ImageFolderWithPaths(datasets.ImageFolder):
         (sample, target) = super(ImageFolderWithPaths, self).__getitem__(index)
 
         # the image file path
-        path = self.imgs[index][0]
+
+        try:
+            path = self.imgs[index][0]
+
+        except:
+            print("Path {} not found".format(index))
+
+
+        #path = self.imgs[index][0]
+
         _, _, _, new_target = self.info_mapping(path)
         original_tuple = (sample, new_target)
 

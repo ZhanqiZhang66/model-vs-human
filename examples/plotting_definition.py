@@ -7,7 +7,7 @@ Define decision makers (either human participants or CNN models).
 from modelvshuman import constants as c
 from modelvshuman.plotting.colors import *
 from modelvshuman.plotting.decision_makers import DecisionMaker
-
+import matplotlib.colors as mcolors
 
 def plotting_definition_template(df):
     """Decision makers to compare a few models with human observers.
@@ -26,6 +26,9 @@ def plotting_definition_template(df):
     """
 
     decision_makers = []
+    decision_makers.append(DecisionMaker(name_pattern="cornet_s",
+                           color=green1, marker="*", df=df,
+                           plotting_name="Cornet_S"))
 
     decision_makers.append(DecisionMaker(name_pattern="resnet50",
                            color=rgb(65, 90, 140), marker="o", df=df,
@@ -47,6 +50,38 @@ def get_comparison_decision_makers(df, include_humans=True,
     """Decision makers used in our paper."""
 
     d = []
+    # 0. self defined models
+    d.append(DecisionMaker(name_pattern="cornet_s",
+                           color="aqua", marker="*", df=df,
+                           plotting_name="CORnet_S"))
+    d.append(DecisionMaker(name_pattern="cornet_r",
+                           color="aqua", marker="*", df=df,
+                           plotting_name="CORnet_R"))
+    d.append(DecisionMaker(name_pattern="cornet_rt",
+                           color="aqua", marker="*", df=df,
+                           plotting_name="CORnet_RT"))
+    d.append(DecisionMaker(name_pattern="cornet_z",
+                           color="aqua", marker="*", df=df,
+                           plotting_name="CORnet_z"))
+    d.append(DecisionMaker(name_pattern="vonenet_alexnet",
+                           color="aqua", marker="*", df=df,
+                           plotting_name="VOneNet_Alexnet"))
+    d.append(DecisionMaker(name_pattern="vonenet_resnet50",
+                           color="aqua", marker="*", df=df,
+                           plotting_name="VOneNet_ResNet50"))
+    d.append(DecisionMaker(name_pattern="vonenet_resnet50_at",
+                           color="aqua", marker="*", df=df,
+                           plotting_name="VOneNet_ResNet50_at"))
+    d.append(DecisionMaker(name_pattern="vonenet_resnet50_ns",
+                           color="aqua", marker="*", df=df,
+                           plotting_name="VOneNet_ResNet50_ns"))
+    d.append(DecisionMaker(name_pattern="vonenet_cornets",
+                           color="aqua", marker="*", df=df,
+                           plotting_name="VOneNet_CORnet_S"))
+    d.append(DecisionMaker(name_pattern="vonenet_alexnet",
+                           color="aqua", marker="*", df=df,
+                           plotting_name="VOneNet_AlexNet"))
+
 
     # 1. supervised models
     for model in c.TORCHVISION_MODELS:
@@ -68,6 +103,7 @@ def get_comparison_decision_makers(df, include_humans=True,
     d.append(DecisionMaker(name_pattern="simclr_resnet50x4",
                            color=orange2, marker="o", df=df,
                            plotting_name="SimCLR: ResNet-50x4"))
+
 
 
     # 3. adversarially robust models
@@ -145,6 +181,70 @@ def get_comparison_decision_makers(df, include_humans=True,
                            color=metallic, marker="o", df=df,
                            plotting_name="Noisy Student: ENetL2 (300M)"))
  
+    if humans_last:
+        d.append(DecisionMaker(name_pattern="clip",
+                               color=brown1, marker="v", df=df,
+                               plotting_name="CLIP: ViT-B (400M)"))
+        if include_humans:
+            d.append(DecisionMaker(name_pattern="subject-*",
+                                   color=red, marker="D", df=df,
+                                   plotting_name="humans"))
+
+    return d
+
+
+def my_comparison_decision_makers(df, include_humans=True,
+                                   humans_last=True):
+    """Decision makers used in our paper."""
+
+    d = []
+    # 0. self defined models
+    for model in c.MY_BRAIN_MODELS:
+        d.append(DecisionMaker(name_pattern=model,
+                               color="aqua", marker="*", df=df,
+                               plotting_name=model))
+
+    # 1. supervised models
+    for model in c.MY_TORCHVISION_MODELS:
+        d.append(DecisionMaker(name_pattern=model,
+                               color=rgb(230, 230, 230), df=df,
+                               plotting_name=model))
+    for model in c.MY_TORCHVISION_MODELS:
+        d.append(DecisionMaker(name_pattern=model,
+                               color=rgb(230, 230, 230), df=df,
+                               plotting_name=model))
+
+    # 2. self-supervised models
+
+
+    # 3. adversarially robust models
+    d += [DecisionMaker(name_pattern="resnet50_l2_eps0",
+                        color=rgb(196, 205, 229), marker="o", df=df,
+                        plotting_name="ResNet-50 L2 eps 0.0"),
+          DecisionMaker(name_pattern="resnet50_l2_eps0_5",
+                        color=rgb(176, 190, 220), marker="o", df=df,
+                        plotting_name="ResNet-50 L2 eps 0.5"),
+          DecisionMaker(name_pattern="resnet50_l2_eps1",
+                        color=rgb(134, 159, 203), marker="o", df=df,
+                        plotting_name="ResNet-50 L2 eps 1.0"),
+          DecisionMaker(name_pattern="resnet50_l2_eps3",
+                        color=rgb(86, 130, 186), marker="o", df=df,
+                        plotting_name="ResNet-50 L2 eps 3.0"),
+          DecisionMaker(name_pattern="resnet50_l2_eps5",
+                        color=blue2, marker="o", df=df,
+                        plotting_name="ResNet-50 L2 eps 5.0")]
+
+    # 4. vision transformers without large-scale pretraining
+
+    if not humans_last:
+        if include_humans:
+            d.append(DecisionMaker(name_pattern="subject-*",
+                                   color=red, marker="D", df=df,
+                                   plotting_name="humans"))
+        d.append(DecisionMaker(name_pattern="clip",
+                               color=brown1, marker="v", df=df,
+                               plotting_name="CLIP: ViT-B (400M)"))
+
     if humans_last:
         d.append(DecisionMaker(name_pattern="clip",
                                color=brown1, marker="v", df=df,

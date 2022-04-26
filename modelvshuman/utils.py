@@ -8,9 +8,9 @@ from os.path import join
 import torchvision.models as zoomodels
 from tqdm import tqdm
 
-from . import constants as c
-from . import datasets as dataset_module
-from .models import pytorch_model_zoo, tensorflow_model_zoo, list_models
+from modelvshuman import constants as c
+from modelvshuman import datasets as dataset_module
+from modelvshuman.models import pytorch_model_zoo, tensorflow_model_zoo, list_models
 
 logger = logging.getLogger(__name__)
 dataset_base_url = "https://github.com/bethgelab/model-vs-human/releases/download/v0.1/{NAME}.tar.gz"
